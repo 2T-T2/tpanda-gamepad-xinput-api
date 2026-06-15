@@ -7,7 +7,7 @@
 
   <groupId>tpanda.gamepads</groupId>
   <artifactId>tpanda-gamepad-xinput-api</artifactId>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
 
   <description>windows gamepad の xinput　用のインターフェース</description>
