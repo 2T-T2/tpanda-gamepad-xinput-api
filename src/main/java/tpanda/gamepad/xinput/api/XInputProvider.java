@@ -1,6 +1,7 @@
 package tpanda.gamepad.xinput.api;
 
 public interface XInputProvider {
+    boolean isAvailable();
     XInput getXInput();
     Constants getConstants();
     XInputBatteryInformation newBatteryInformation();
